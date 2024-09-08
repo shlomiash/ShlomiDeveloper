@@ -13,7 +13,7 @@ export const ContactSection = () => {
           <div className="lg:col-span-3">
             <div className="text-gray-900 py-4 flex flex-col text-center lg:text-left gap-2">
               <h3 className=" text-2xl capitalize font-serif">
-                Let's create something amazing together
+                Lets create something amazing together
               </h3>
               <p className="font-semibold text-sm">
                 Feel free to reach out if you`d like to connect or have any
