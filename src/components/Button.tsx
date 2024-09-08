@@ -9,7 +9,7 @@ import ArrowDown from "@/assets/icons/arrow-down.svg"
       <ArrowDown className="size-4 "/>
     </button>
     <button className="button-hero bg-white text-gray-900 font-bold">
-      <span>👋 Let's Connect</span>
+      <span>👋 Let`s Connect</span>
     </button>
   </div>
   )

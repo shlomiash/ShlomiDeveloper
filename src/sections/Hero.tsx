@@ -31,7 +31,7 @@ const HeroHeadLine = () => {
       <span className="block">Creative Programmer</span> fueled by passion
     </h1>
     <p className=" text-center text-sm md:text-lg mt-4 text-white/60 leading-6">
-    Hi, my name is Shlomi, I'm 25 years old, and currently pursuing a degree in Computer Science at Afeka College in Tel Aviv. I enjoy working on challenging problems that stimulate my mind, and I'm passionate about using creativity to find innovative solutions. I'm a dedicated, hardworking individual who thrives in environments that push me to think critically and apply my skills effectively. 
+    Hi, my name is Shlomi, I`m 25 years old, and currently pursuing a degree in Computer Science at Afeka College in Tel Aviv. I enjoy working on challenging problems that stimulate my mind, and I`m passionate about using creativity to find innovative solutions. I`m a dedicated, hardworking individual who thrives in environments that push me to think critically and apply my skills effectively. 
     </p>
   </div>
   );
