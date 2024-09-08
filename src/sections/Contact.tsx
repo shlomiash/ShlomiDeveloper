@@ -16,8 +16,8 @@ export const ContactSection = () => {
                 Let's create something amazing together
               </h3>
               <p className="font-semibold text-sm">
-                Feel free to reach out if you'd like to connect or have any
-                questions! I'm always open to discussing new ideas,
+                Feel free to reach out if you`d like to connect or have any
+                questions! Im always open to discussing new ideas,
                 collaborating on projects
               </p>
               

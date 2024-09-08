@@ -11,7 +11,7 @@ const portfolioProjects = [
     languages: "C Language",
     title: "Project Manager ",
     results: [
-      { title: "Fast and lightweight due to C's low-level nature" },
+      { title: "Fast and lightweight due to C low-level nature" },
       {
         title:
           "Command-line interface offers flexibility and simplicity for developers",
