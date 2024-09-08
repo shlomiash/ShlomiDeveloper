@@ -1,5 +1,5 @@
 import cProject from "@/assets/images/C-Project.jpg";
-import javaProject from "@/assets/images/java-Project.png";
+import javaProject from "@/assets/images/java.png";
 import protfolioProject from "@/assets/images/protfolioImage.png";
 import Image from "next/image";
 import CheckIcon from "@/assets/icons/check-circle.svg";
