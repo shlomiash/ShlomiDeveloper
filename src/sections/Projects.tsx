@@ -18,7 +18,7 @@ const portfolioProjects = [
       },
       { title: "Focuses on minimizing memory usage" },
     ],
-    link: "#",
+    link: "https://github.com/shlomiash/Project-Manager",
     image: cProject,
   },
   {
@@ -34,7 +34,7 @@ const portfolioProjects = [
           "PostgreSQL provides reliable, high-performance database management",
       },
     ],
-    link: "#",
+    link: "https://github.com/shlomiash/Database-Systems-Shopping-Cart",
     image: javaProject,
   },
   {
@@ -51,7 +51,7 @@ const portfolioProjects = [
           "Clean user interface with smooth navigation enhances the user experience",
       },
     ],
-    link: "#",
+    link: "https://github.com/shlomiash/ShlomiDeveloper",
     image: protfolioProject,
   },
 ];

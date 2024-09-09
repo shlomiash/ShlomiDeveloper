@@ -19,14 +19,18 @@ export const Footer = () => {
         </div>
         <div>
           <div className='flex  justify-center gap-4'>
-            {socials.map(social =>(
-                <div key={social}>
-                  <a href='#' className='inline-flex gap-2'>
-                     <span className='text-sm'>{social}</span>
+          <div>
+              <a href='https://github.com/shlomiash' className='inline-flex gap-2'>
+                <span className='text-sm'>Github</span>
                   <UpRightArrow className="size-4"/>
-                  </a>
-                </div>
-            ))}
+              </a>
+          </div>  
+          <div>
+            <a href='https://www.linkedin.com/in/shlomi-ashkenazi/' className='inline-flex gap-2'>
+              <span className='text-sm'>Linkedin</span>
+              <UpRightArrow className="size-4"/>
+              </a>
+          </div>
           </div>
         </div>
       </div>
@@ -34,3 +38,6 @@ export const Footer = () => {
     </footer>
   )
 };
+
+
+

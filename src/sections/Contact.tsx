@@ -25,7 +25,7 @@ export const ContactSection = () => {
           </div>
           <div className="pb-6">
             <a
-                href="#"
+                href="https://wa.me/0547446880"
                 className="flex items-center gap-2 justify-center mt-4 text-white bg-gray-900 mx-auto py-3 px-4 rounded-xl hover:bg-[#1a9753]"
               >
                 <button> Contact Me</button>
