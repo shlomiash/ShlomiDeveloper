@@ -65,12 +65,6 @@ export const ProjectsSection = () => {
             Featured Projects
           </p>
         </div>
-        <div className="md:w-80 md:mx-auto">
-          <p className="text-center text-white/60 mt-4 lg:text-lg lg:mt-8">
-            See How I transformed concepts into engaing digital something change
-            later.
-          </p>
-        </div>
 
         <div className="flex flex-col mt-10 gap-16 lg:mt-16">
           {portfolioProjects.map((project , index) => {
@@ -81,8 +75,7 @@ export const ProjectsSection = () => {
                 after:content-[''] after:z-10 after:pointer-events-none
                 after:absolute after:inset-0 after:outline 
                 after:outline-2 after:-outline-offset-2 after:rounded-3xl
-                after:outline-white/20 px-8 pt-8 md:px-9 md:pt-9 lg:pt-16 lg:px-16 sticky"
-                style={{top:`calc(64px + ${index*40}px )`}} >
+                after:outline-white/20 px-8 pt-8 md:px-9 md:pt-9 lg:pt-16 lg:px-16 sticky">
                 <div
                   className=" absolute opacity-5 -z-10 inset-0"
                   style={{ backgroundImage: `url(${grainImage.src})` }}
